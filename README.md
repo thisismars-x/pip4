@@ -5,7 +5,7 @@ pip4 does one simple thing and does it good.
 
 It manufactures a requirements.txt file for your python project, skipping any dependency(direct or transient) that you do not directly invoke in your .py file.
 
-pip4 is written completely in Rust. So make sure to have it on your system. [Here is an awesome tutorial](https://www.rust-lang.org/tools/install)
+pip4 is written completely in Rust. So make sure to have it on your system. Here is an awesome [tutorial](https://www.rust-lang.org/tools/install)
 
 
 ## Installation
